@@ -1,5 +1,5 @@
 # appScript_relatorio
-PROJETO : Planilha elaborada com App Script para envio de relatório por email. Código Abaixo:
+PROJETO : Planilha elaborada com App Script para cadastro de itens e operações, gerar e enviar relatório por email. Código Abaixo:
 =============================================================================================
 var planilha = SpreadsheetApp.getActiveSpreadsheet();
 
